@@ -17,6 +17,7 @@ public class Handy {
         this.Betriebssystem = Betriebssystem;
     }
     public static void main(String[] args){
+
         Handy handy1 = new Handy ("Samsung", 6.5, "Android");
     }
 }
